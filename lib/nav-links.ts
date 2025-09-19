@@ -13,27 +13,27 @@ export const navLinks = [
     href: "/features",
     menu: [
       {
-        title: "Link Shortening",
-        tagline: "Shorten links and track their performance.",
-        href: "/features/link-shortening",
+        title: "Feature 2",
+        tagline: "This is Feature 2 .",
+        href: "/features/feature-2",
         icon: Link2Icon,
       },
       {
-        title: "Password Protection",
-        tagline: "Secure your links with a password.",
-        href: "/features/password-protection",
+        title: "Feature 3",
+        tagline: "This is Feature 3 .",
+        href: "/features/feature-3",
         icon: LockIcon,
       },
       {
-        title: "Advanced Analytics",
-        tagline: "Gain insights into who is clicking your links.",
-        href: "/features/analytics",
+        title: "Feature 4",
+        tagline: "This is Feature 4 .",
+        href: "/features/feature-4",
         icon: LineChartIcon,
       },
       {
-        title: "Custom QR Codes",
-        tagline: "Use QR codes to reach your audience.",
-        href: "/features/qr-codes",
+        title: "Feature 5",
+        tagline: "This is Feature 5 .",
+        href: "/features/feature-5",
         icon: QrCodeIcon,
       },
     ],
@@ -41,10 +41,6 @@ export const navLinks = [
   {
     title: "Pricing",
     href: "/pricing",
-  },
-  {
-    title: "Enterprise",
-    href: "/enterprise",
   },
   {
     title: "Resources",

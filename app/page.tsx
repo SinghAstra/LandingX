@@ -1,5 +1,4 @@
 import Navbar from "@/components/navigation/navbar";
-import NewNavbar from "@/components/navigation/new-navbar";
 import React from "react";
 
 const HomePage = () => {
@@ -8,7 +7,7 @@ const HomePage = () => {
       <Navbar />
 
       <div className="min-h-screen flex items-center justify-center">
-        <NewNavbar />
+        <h1 className="text-6xl font-bold">Hey</h1>
       </div>
       <div className="min-h-screen flex items-center justify-center">
         <h1 className="text-6xl font-bold">There</h1>
